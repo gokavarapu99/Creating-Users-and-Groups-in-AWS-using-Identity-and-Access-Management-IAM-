@@ -84,7 +84,7 @@ Click Yes, Terminate in the dialog. We'll then receive a message saying "Error t
 Click Cancel.
 Navigate to S3. We'll then see an error message saying "Insufficient permissions to list buckets," as this user doesn't have the right permissions to view anything here.
 Log out by clicking user-2 in the top right corner, and then click Sign Out.
-Log in as user-3
+Log in as user-3.
 Click the Sign In to Console button in the top right corner.
 Log in as user-3 using the password 123456.
 Navigate to EC2 > Instances.
