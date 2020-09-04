@@ -29,7 +29,7 @@ Note: There are two different kinds of policies for these groups:
 
 Managed policies: Policies shared among users and/or groups that are prebuilt either by AWS or an administrator within the AWS account. When it's updated, the changes to this policy are immediately applied for all users and groups to which it's attached.
 Inline policies: Policies assigned to just one user or group that are typically used in one-off situations.
-Click the EC2-Admin group.
+Click the EC2-Admin group
 
 Click the Permissions tab, where we'll see it has a set of permissions associated with it: an inline policy.
 Click Edit Policy to see the actions the group is allowed to take (and which resources the action can be taken on) or if it has read-only access. This policy displays JSON access control policy language and provides access on a granular level to AWS resources.
